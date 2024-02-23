@@ -8,7 +8,7 @@ class categoryClass:
     def __init__(self, root):
         self.root = root
         self.root.geometry("1100x500+220+130")
-        self.root.title("Inventory Management System | Developed by Raju")
+        self.root.title("Inventory Management System | Developed by Birendra")
         self.root.config(bg="white")
         self.root.focus_force()
         #==== varibles=====
